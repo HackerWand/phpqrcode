@@ -2,9 +2,12 @@
 
 输出base64编码的图片字符串，可以直接用于img标签的src中
 
-> [原作者：追逐吾之所求](https://me.csdn.net/jiongxian1)
+[原作者：追逐吾之所求](https://me.csdn.net/jiongxian1)
 
-> [源地址：参考地址](https://blog.csdn.net/jiongxian1/article/details/88980579)
+[源地址：参考地址](https://blog.csdn.net/jiongxian1/article/details/88980579)
+
+[原版地址：phpqrcode](http://phpqrcode.sourceforge.net/)
+
 
 > 1. 在QRcode类中新增方法pngString
 > 2. 在QRencode类中新增方法encodePNGString
